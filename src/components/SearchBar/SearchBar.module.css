@@ -1,5 +1,5 @@
 .header {
-  background-color: rgb(0, 0, 139);
+  background-color: rgb(44, 139, 0);
   padding: 20px;
   display: flex;
   flex-direction: row;
@@ -12,11 +12,11 @@
   border-radius: 8px;
 }
 .input {
-  width: 300px;
-  height: 30px;
+  width: 330px;
+  height: 33px;
   background-color: transparent;
   outline: transparent;
-  border-radius: 8px;
+  border-radius: 10px;
   border: none;
 }
 .btn {
